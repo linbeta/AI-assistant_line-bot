@@ -1,2 +1,3 @@
 ba_venv/
 .env
+__pycache__/

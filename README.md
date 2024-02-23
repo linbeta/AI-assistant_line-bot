@@ -3,7 +3,7 @@
 
 ### 目標
 1. 整合openAI的工具ChatGPT, whisper等到LINE裡面使用，作為個人助理，自動化處理一些簡單的任務
-2. [line-bot-sdk-python](https://github.com/line/line-bot-sdk-python)已有整合openai相關套件，研究如何使用。
+2. 研究[line-bot-sdk-python](https://github.com/line/line-bot-sdk-python)，看有什麼好用的功能，學起來！
 
 ### 練習
 
